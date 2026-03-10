@@ -171,7 +171,7 @@ Visual representation of health data over time using intuitive bar charts.
 |------|------|-------------|
 | **Elsa Aslam Qureshi** | Team Member | Department of Biomedical Engineering, Ziauddin University |
 | **Myra Aslam Qureshi** | Team Member | Department of Integrative Systems and Design, Hong Kong University of Science and Technology |
-| **Meekail Shaikh** | Team Member & CEO at [X5 Technologies](https://x5hosting.com) | Department of Computer Science, National Textile University |
+| **Meekail Shaikh** | Team Member & CEO at [X5 Technologies](https://x5technologies.site/) | Department of Computer Science, National Textile University |
 
 ---
 
@@ -249,16 +249,6 @@ The prototype was evaluated in **15 healthy adults** against commercial home-use
 ## Conference Presentation
 
 - **Event:** 5th International Biomedical & Digital Health Conference 2026
-
----
-
-## Live Demo
-
-🌐 **Web Application:** [https://dil-o-sehat.x5hosting.com/](https://dil-o-sehat.x5hosting.com/)
-
-**Demo Credentials:**
-- Username: `ahmed123`
-- Password: `pass123`
 
 ---
 
